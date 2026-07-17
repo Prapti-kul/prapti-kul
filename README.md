@@ -4,12 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prapti-kul&label=Profile%20views&color=0e75b6&style=flat" alt="prapti-kul" /> </p>
 
 - 🌱 I’m currently learning **
-• Python
-• Data Science
-• Machine Learning
-• Artificial Intelligence (AI)
-• Generative AI
-• Python Automation
+- 🐍 Python Programming
+- 📊 Data Science
+- 🤖 Machine Learning (ML)
+- 🧠 Artificial Intelligence (AI)
+- 💡 Deep Learning
+- ✨ Generative AI (GenAI)
+- ⚡ Python Automation
+- 🗄️ SQL (MySQL)
+- 📈 NumPy, Pandas & Matplotlib
+- 🔍 Scikit-learn
+- 🧪 Jupyter Notebook & Anaconda
+- 👁️ OpenCV (Computer Vision)
+- 🔥 TensorFlow & PyTorch
+- 🤗 Hugging Face Transformers
+- ⛓️ LangChain
+- 💬 Prompt Engineering
+- 🌿 Git & GitHub
 
 📌 Building real-world projects and continuously improving my coding, problem-solving, and software development skills.**
 
@@ -75,3 +86,4 @@
 </a>
 
 </p>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/240885668-b8f0b31c-6b9d-4c53-8baf-3fcd6f65b3d4.gif">
