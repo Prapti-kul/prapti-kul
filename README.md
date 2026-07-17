@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prapti-kul&label=Profile%20views&color=0e75b6&style=flat" alt="prapti-kul" /> </p>
 
 - 🌱 I’m currently learning **
-  🚀 Currently Learning:
 • Python
 • Data Science
 • Machine Learning
