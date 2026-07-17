@@ -84,6 +84,6 @@
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </a>
-
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 </p>
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/240885668-b8f0b31c-6b9d-4c53-8baf-3fcd6f65b3d4.gif">
